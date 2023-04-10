@@ -1,0 +1,20 @@
+body {
+    background: hsla(0, 0%, 0%, 1);
+    background: linear-gradient(90deg, hsla(0, 0%, 0%, 1) 0%, hsla(248, 100%, 47%, 1) 50%, hsla(188, 74%, 50%, 1) 90%);
+    background: -moz-linear-gradient(90deg, hsla(0, 0%, 0%, 1) 0%, hsla(248, 100%, 47%, 1) 50%, hsla(188, 74%, 50%, 1) 90%);
+    background: -webkit-linear-gradient(90deg, hsla(0, 0%, 0%, 1) 0%, hsla(248, 100%, 47%, 1) 50%, hsla(188, 74%, 50%, 1) 90%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#2000EF", GradientType=1);
+    color: lightskyblue;
+}
+
+img {
+    width: 250px;
+    height: 300px;
+}
+
+h5 {
+    color: deeppink;
+    background-color: gray;
+    font-size: larger;
+    font-weight: 600;
+}
